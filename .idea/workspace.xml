@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4880b31-d01a-462f-ab8a-ee6f16439599" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArrayListt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoubleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DoubleNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vectorr.java" afterDir="false" />
+    <list default="true" id="b4880b31-d01a-462f-ab8a-ee6f16439599" name="Changes" comment="Se han creado las stacks a utilizar">
+      <change afterPath="$PROJECT_DIR$/src/Calculador/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculador/CalculatorFuntions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calculador/ICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/ArrayListt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/DoubleList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/DoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stacks/Vectorr.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArrayListt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoubleList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DoubleNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LinkedList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Node.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vectorr.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,22 +38,25 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2M0dtCVnOp1maWMElbjIBdgnl5a" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USUARIO/Desktop/LikedList&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/USUARIO/Desktop/LikedList",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,8 +68,16 @@
       <workItem from="1676908650625" duration="971000" />
       <workItem from="1677012963499" duration="168000" />
       <workItem from="1677013255780" duration="403000" />
-      <workItem from="1677034624849" duration="3144000" />
+      <workItem from="1677034624849" duration="4840000" />
     </task>
+    <task id="LOCAL-00001" summary="Se han creado las stacks a utilizar">
+      <created>1677037822822</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677037822822</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -74,5 +93,21 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Se han creado las stacks a utilizar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se han creado las stacks a utilizar" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../HDT2-Calc/CalculatorFuntions.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
